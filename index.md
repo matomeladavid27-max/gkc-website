@@ -9,7 +9,7 @@ last_synced: 2026-04-04
   <div class="hero-container">
     <p class="hero-label">Johannesburg, South Africa</p>
     <h1>Specialised Goalkeeper Training</h1>
-    <p class="hero-sub">Goal Keepers Corner is where real keepers train. Join Coach Banele for weekend sessions that build technique, confidence, and a community of goalkeepers who push each other to be better.</p>
+    <p class="hero-sub">Goal Keepers Corner is where real keepers train. Specialised essions that build technique, confidence, and a community of goalkeepers who push each other to be better.</p>
     <div class="hero-buttons">
       <a href="/contact/" class="btn btn-primary">Start Training</a>
       <a href="/programs/" class="btn btn-secondary">View Programs</a>
