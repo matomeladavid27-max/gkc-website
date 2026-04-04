@@ -1,0 +1,47 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-grid">
+
+      <div class="footer-col">
+        <div class="footer-brand">
+          <span class="brand-icon">GC</span>
+          <span class="brand-text">Goal Keepers Corner</span>
+        </div>
+        <p class="footer-tagline">Cultivating Talent into Goalkeeping Excellence</p>
+        <p class="footer-location">Johannesburg, South Africa</p>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Quick Links</h4>
+        <ul class="footer-links">
+          {% for item in site.data.navigation %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Follow GC</h4>
+        <ul class="footer-links">
+          <li><a href="{{ site.data.social.instagram.url }}" target="_blank" rel="noopener">Instagram {{ site.data.social.instagram.handle }}</a></li>
+          <li><a href="{{ site.data.social.youtube.url }}" target="_blank" rel="noopener">YouTube {{ site.data.social.youtube.handle }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Get in Touch</h4>
+        {% if site.data.contact.whatsapp.url != "" %}
+          <a href="{{ site.data.contact.whatsapp.url }}" class="footer-whatsapp" target="_blank" rel="noopener">
+            Message on WhatsApp
+          </a>
+        {% endif %}
+        <p class="footer-contact-note">DM us on <a href="{{ site.data.social.instagram.url }}" target="_blank" rel="noopener">Instagram</a> to get started.</p>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} Goal Keepers Corner. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

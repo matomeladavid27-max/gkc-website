@@ -1,0 +1,106 @@
+---
+title: Home
+layout: default
+source: .meta/purpose.md, .mental-models/content-to-conversion/, .mental-models/customer-segments/
+last_synced: 2026-04-04
+---
+
+<section class="hero">
+  <div class="hero-container">
+    <p class="hero-label">Johannesburg, South Africa</p>
+    <h1>Specialised Goalkeeper Training</h1>
+    <p class="hero-sub">Goal Keepers Corner is where real keepers train. Join Coach Banele for weekend sessions that build technique, confidence, and a community of goalkeepers who push each other to be better.</p>
+    <div class="hero-buttons">
+      <a href="/contact/" class="btn btn-primary">Start Training</a>
+      <a href="/programs/" class="btn btn-secondary">View Programs</a>
+    </div>
+    <div class="hero-stat-row">
+      <div class="hero-stat">
+        <div class="hero-stat-value">4K+</div>
+        <div class="hero-stat-label">Instagram followers</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-value">JHB</div>
+        <div class="hero-stat-label">Johannesburg based</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-value">All Ages</div>
+        <div class="hero-stat-label">U12 to Senior</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-container">
+    <div class="section-header">
+      <h2>Why Goal Keepers Corner?</h2>
+      <p class="section-subtitle">Most keepers train with outfield players. At GC, goalkeeping is the main event.</p>
+    </div>
+    <div class="pillars-grid">
+      <div class="pillar">
+        <div class="pillar-icon">&#129351;</div>
+        <h3 class="pillar-title">Specialist Coaching</h3>
+        <p class="pillar-text">Dedicated goalkeeper sessions with drills, techniques, and scenarios you won't get at regular team practice.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-icon">&#129309;</div>
+        <h3 class="pillar-title">Keeper Community</h3>
+        <p class="pillar-text">Train alongside other goalkeepers who understand the position. Build friendships and push each other further.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-icon">&#128200;</div>
+        <h3 class="pillar-title">Real Development</h3>
+        <p class="pillar-text">From fundamentals to advanced technique — a clear pathway from where you are to where you want to be.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-dark">
+  <div class="section-container">
+    <div class="section-header">
+      <h2>Training Programs</h2>
+      <p class="section-subtitle">Whether you're just starting or looking to go pro, there's a place for you at GC.</p>
+    </div>
+    <div class="card-grid">
+      {% for program in site.data.programs %}
+      <div class="card card-dark">
+        <div class="card-title">{{ program.title }}</div>
+        <p class="card-text">{{ program.tagline }}</p>
+        <div class="card-tags">
+          {% for age in program.age_groups %}
+            <span class="card-tag">{{ age }}</span>
+          {% endfor %}
+          {% if program.status == "coming-soon" %}
+            <span class="card-tag" style="color: var(--accent);">Coming Soon</span>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="text-center mt-4">
+      <a href="/programs/" class="btn btn-primary">Explore Programs</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-container">
+    <div class="feature-row">
+      <div class="feature-image">
+        <p>Coach Banele in action — session photo</p>
+      </div>
+      <div class="feature-content">
+        <h3>Meet Coach Banele</h3>
+        <p>Banele Matomela is Johannesburg's dedicated goalkeeper specialist. With a growing community of over 20,000 followers across his platforms, Coach Banele combines hands-on expertise with an authentic passion for developing keepers at every level.</p>
+        <p>His belief is simple: every goalkeeper deserves specialised attention, not just the ones at elite academies.</p>
+        <a href="/about/" class="btn btn-outline">Learn More</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include social-feed.html %}
+
+{% include cta-banner.html %}

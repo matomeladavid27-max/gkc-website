@@ -1,0 +1,38 @@
+- id: weekend-training
+  title: Weekend Training
+  type: in-person
+  status: active
+  tagline: "Specialised goalkeeper sessions every Saturday in Johannesburg"
+  age_groups:
+    - "Under 12s (8-12)"
+    - "Juniors (13-17)"
+    - "Seniors (18+)"
+  icon: "gloves"
+
+- id: online-content
+  title: Online Content
+  type: online
+  status: active
+  tagline: "Free drills, tutorials, and keeper motivation on Instagram and YouTube"
+  age_groups:
+    - "All ages"
+  icon: "play"
+
+- id: holiday-camps
+  title: Holiday Camps
+  type: in-person
+  status: coming-soon
+  tagline: "Multi-day intensive goalkeeper camps during school holidays"
+  age_groups:
+    - "Under 12s (8-12)"
+    - "Juniors (13-17)"
+  icon: "calendar"
+
+- id: private-sessions
+  title: Private Sessions
+  type: in-person
+  status: coming-soon
+  tagline: "1-on-1 coaching for accelerated development"
+  age_groups:
+    - "All ages"
+  icon: "user"

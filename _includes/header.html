@@ -1,0 +1,42 @@
+<header class="site-header">
+  <nav class="nav-container">
+    <a class="nav-brand" href="{{ '/' | relative_url }}">
+      <span class="brand-icon">GC</span>
+      <span class="brand-text">Goal Keepers Corner</span>
+    </a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <div class="nav-links">
+      {% for item in site.data.navigation %}
+        {% assign is_active = false %}
+        {% if page.url == item.url %}
+          {% assign is_active = true %}
+        {% elsif item.url != "/" %}
+          {% assign url_prefix = item.url %}
+          {% assign current_prefix = page.url | slice: 0, url_prefix.size %}
+          {% if current_prefix == url_prefix %}
+            {% assign is_active = true %}
+          {% endif %}
+        {% endif %}
+        <a href="{{ item.url | relative_url }}" class="nav-link{% if is_active %} active{% endif %}">
+          {{ item.title }}
+        </a>
+      {% endfor %}
+      <a href="{{ '/contact/' | relative_url }}" class="nav-cta">Join GC</a>
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    const links = document.querySelector('.nav-links');
+    const expanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', !expanded);
+    links.classList.toggle('open');
+  });
+</script>

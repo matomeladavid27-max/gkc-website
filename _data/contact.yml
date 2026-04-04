@@ -1,0 +1,14 @@
+whatsapp:
+  number: ""
+  display: "Message us on WhatsApp"
+  url: ""
+
+email:
+  address: ""
+  display: "Email Coach Banele"
+
+location:
+  city: Johannesburg
+  province: Gauteng
+  country: South Africa
+  venue: "Training venue TBC"

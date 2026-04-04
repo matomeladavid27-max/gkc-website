@@ -1,0 +1,34 @@
+title: Goal Keepers Corner
+description: Cultivating Talent into Goalkeeping Excellence — Specialised goalkeeper training in Johannesburg, South Africa.
+baseurl: ""
+url: "https://goalkeeperscorner.co.za"
+
+permalink: pretty
+
+collections:
+  programs:
+    output: true
+    permalink: /programs/:slug/
+  testimonials:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      type: "programs"
+    values:
+      layout: "program"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.sh"
+  - scripts/

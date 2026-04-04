@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="page-container">
+  <div class="page-content">
+    <div class="program-header">
+      {% if page.status == "coming-soon" %}
+        <span class="badge badge-soon">Coming Soon</span>
+      {% elsif page.status == "active" %}
+        <span class="badge badge-active">Active</span>
+      {% endif %}
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.description %}
+        <p class="program-tagline">{{ page.description }}</p>
+      {% endif %}
+    </div>
+
+    {{ content }}
+
+    {% include cta-banner.html %}
+  </div>
+</div>
