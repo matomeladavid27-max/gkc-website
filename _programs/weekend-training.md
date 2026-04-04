@@ -12,6 +12,6 @@ source: programs/weekend-training/.meta/purpose.md
 last_synced: 2026-04-04
 ---
 
-GC's core offering: focused goalkeeper training every weekend in Johannesburg. Small groups, specialist coaching, and progressive sessions that develop technique, game understanding, and confidence.
+GKC's core offering: focused goalkeeper training every weekend in Johannesburg. Small groups, specialist coaching, and progressive sessions that develop technique, game understanding, and confidence.
 
 Sessions cover shot-stopping, diving technique, footwork, distribution, positioning, 1v1 scenarios, cross-dealing, and game-realistic decision-making. Every keeper gets individual attention and feedback from Coach Banele.

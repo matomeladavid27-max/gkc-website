@@ -12,7 +12,7 @@ last_synced: 2026-04-04
 
 Goal Keepers Corner exists to elevate the standard of goalkeeping in South Africa. We provide specialised coaching, community, and content that transforms aspiring keepers into confident, technically excellent players.
 
-Most football academies and school teams treat goalkeepers as an afterthought — one person in a squad of twenty who gets told to "just stand in goal." GC was built on the belief that keepers deserve better than that.
+Most football academies and school teams treat goalkeepers as an afterthought — one person in a squad of twenty who gets told to "just stand in goal." GKC was built on the belief that keepers deserve better than that.
 
 ---
 
@@ -20,7 +20,7 @@ Most football academies and school teams treat goalkeepers as an afterthought �
 
 Banele Matomela is the founder, head coach, and driving force behind Goal Keepers Corner. Based in Johannesburg, he's built a reputation as one of Mzansi's most passionate goalkeeper development specialists.
 
-With over 20,000 personal Instagram followers and a growing GC community, Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers, and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
+With over 20,000 personal Instagram followers and a growing GKC community, Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers, and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
 
 ### Coaching Philosophy
 
@@ -41,9 +41,9 @@ Through social media content, we extend that reach beyond Johannesburg — shari
 
 ### What We're Working Toward
 
-- Keepers in Johannesburg know GC as **the** place for specialised goalkeeper training.
+- Keepers in Johannesburg know GKC as **the** place for specialised goalkeeper training.
 - Parents trust Coach Banele with their children's development.
-- GC alumni go on to play at school, university, club, and national levels.
+- GKC alumni go on to play at school, university, club, and national levels.
 - The organisation becomes financially sustainable through consistent program enrollment.
 
 ---

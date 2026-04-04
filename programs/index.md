@@ -10,7 +10,7 @@ last_synced: 2026-04-04
 
 # Training Programs
 
-Whether you're picking up gloves for the first time or preparing for trials, GC has a program designed for you. Every session is built around specialised goalkeeper coaching — no outfield drills, no standing around waiting for your turn.
+Whether you're picking up gloves for the first time or preparing for trials, GKC has a program designed for you. Every session is built around specialised goalkeeper coaching — no outfield drills, no standing around waiting for your turn.
 
 ---
 
@@ -51,7 +51,7 @@ Our core program: specialised goalkeeper sessions held every Saturday in Johanne
 
 <span class="badge badge-active">Active</span>
 
-Can't make it to Johannesburg? Follow GC online for free drills, tutorials, and keeper motivation.
+Can't make it to Johannesburg? Follow GKC online for free drills, tutorials, and keeper motivation.
 
 - **Instagram** — Short-form reels of training drills, session highlights, and goalkeeper culture at <a href="https://www.instagram.com/gc_goalkeepers.corner/" target="_blank">@gc_goalkeepers.corner</a>
 - **YouTube** — Longer tutorials, full session walkthroughs, and technical breakdowns at <a href="https://www.youtube.com/@gc_goalkeepers.corner" target="_blank">@gc_goalkeepers.corner</a>

@@ -8,9 +8,9 @@ last_synced: 2026-04-04
 <div class="page-container">
 <div class="page-content">
 
-# The GC Community
+# The GKC Community
 
-Goalkeepers are often the loneliest player on the pitch — the only one in their position, with no one at training who truly understands what they go through. At GC, that changes.
+Goalkeepers are often the loneliest player on the pitch — the only one in their position, with no one at training who truly understands what they go through. At GKC, that changes.
 
 When you join Goal Keepers Corner, you join a community of keepers who get it. Who know what it's like to be blamed for the goal. Who understand the pressure of being the last line. Who train together, push each other, and celebrate each other's growth.
 
@@ -20,15 +20,15 @@ When you join Goal Keepers Corner, you join a community of keepers who get it. W
 
 **At sessions** — You'll train alongside other goalkeepers of your age and level. There's nothing like diving, saving, and getting back up with other keepers who are working just as hard as you.
 
-**Online** — Between sessions, the GC community stays connected through Instagram and WhatsApp. Share your wins, ask Coach Banele questions, and stay motivated even when you can't make it to the pitch.
+**Online** — Between sessions, the GKC community stays connected through Instagram and WhatsApp. Share your wins, ask Coach Banele questions, and stay motivated even when you can't make it to the pitch.
 
-**Over time** — As you develop, you become part of GC's story. Keepers who've been through the program become mentors, ambassadors, and proof that the work pays off.
+**Over time** — As you develop, you become part of GKC's story. Keepers who've been through the program become mentors, ambassadors, and proof that the work pays off.
 
 ---
 
 ## Community Values
 
-**Every keeper matters.** Whether you're 8 or 28, a beginner or a provincial player, you belong at GC.
+**Every keeper matters.** Whether you're 8 or 28, a beginner or a provincial player, you belong at GKC.
 
 **Growth over glory.** We celebrate improvement, not just talent. The keeper who shows up every week and gets 1% better is the keeper we're most proud of.
 
@@ -40,7 +40,7 @@ When you join Goal Keepers Corner, you join a community of keepers who get it. W
 
 ## Keeper Stories
 
-*Keeper testimonials and success stories will be featured here as the community grows. From being overlooked at trials to making representative teams — every GC keeper has a story worth telling.*
+*Keeper testimonials and success stories will be featured here as the community grows. From being overlooked at trials to making representative teams — every GKC keeper has a story worth telling.*
 
 ---
 
