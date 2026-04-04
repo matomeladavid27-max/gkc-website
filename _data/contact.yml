@@ -1,10 +1,10 @@
 whatsapp:
-  number: ""
+  number: "+27 81 750 6298"
   display: "Message us on WhatsApp"
-  url: ""
+  url: "https://wa.me/27817506298"
 
 email:
-  address: ""
+  address: "goalkeeperscornergc@gmail.com"
   display: "Email Coach Banele"
 
 location:

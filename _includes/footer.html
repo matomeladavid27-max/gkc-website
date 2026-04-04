@@ -30,12 +30,10 @@
 
       <div class="footer-col">
         <h4 class="footer-heading">Get in Touch</h4>
-        {% if site.data.contact.whatsapp.url != "" %}
-          <a href="{{ site.data.contact.whatsapp.url }}" class="footer-whatsapp" target="_blank" rel="noopener">
-            Message on WhatsApp
-          </a>
-        {% endif %}
-        <p class="footer-contact-note">DM us on <a href="{{ site.data.social.instagram.url }}" target="_blank" rel="noopener">Instagram</a> to get started.</p>
+        <a href="{{ site.data.contact.whatsapp.url }}" class="footer-whatsapp" target="_blank" rel="noopener">
+          Message on WhatsApp
+        </a>
+        <p class="footer-contact-note"><a href="mailto:{{ site.data.contact.email.address }}">{{ site.data.contact.email.address }}</a></p>
       </div>
 
     </div>
