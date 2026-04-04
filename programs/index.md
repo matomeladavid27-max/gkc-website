@@ -42,7 +42,7 @@ Our core program: specialised goalkeeper sessions held every Saturday in Johanne
 - **Group size**: Small groups for maximum attention
 
 <div class="mt-4">
-  <a href="/contact/" class="btn btn-primary">Sign Up for Sessions</a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Sign Up for Sessions</a>
 </div>
 
 ---
@@ -73,7 +73,7 @@ One-on-one coaching with Coach Banele for goalkeepers wanting personalised atten
 ---
 
 <div class="text-center mt-4">
-  <a href="/contact/" class="btn btn-primary">Get Started</a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Get Started</a>
 </div>
 
 </div>

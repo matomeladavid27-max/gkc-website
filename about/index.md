@@ -20,7 +20,7 @@ Most football academies and school teams treat goalkeepers as an afterthought �
 
 Banele Matomela is the founder, head coach, and driving force behind Goal Keepers Corner. Based in Johannesburg, he's built a reputation as one of Mzansi's most passionate goalkeeper development specialists.
 
-With over 21,000 personal Instagram followers and a growing GC community, Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers, and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
+With over 20,000 personal Instagram followers and a growing GC community, Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers, and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
 
 ### Coaching Philosophy
 
@@ -49,8 +49,8 @@ Through social media content, we extend that reach beyond Johannesburg — shari
 ---
 
 <div class="text-center mt-4">
-  <a href="/programs/" class="btn btn-primary">View Our Programs</a>
-  <a href="/contact/" class="btn btn-outline" style="margin-left: 12px;">Get in Touch</a>
+  <a href="{{ '/programs/' | relative_url }}" class="btn btn-primary">View Our Programs</a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline" style="margin-left: 12px;">Get in Touch</a>
 </div>
 
 </div>

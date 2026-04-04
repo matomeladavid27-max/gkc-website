@@ -45,7 +45,7 @@ When you join Goal Keepers Corner, you join a community of keepers who get it. W
 ---
 
 <div class="text-center mt-4">
-  <a href="/contact/" class="btn btn-primary">Join the Community</a>
+  <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join the Community</a>
   <a href="https://www.instagram.com/gc_goalkeepers.corner/" class="btn btn-outline" target="_blank" style="margin-left: 12px;">Follow on Instagram</a>
 </div>
 
