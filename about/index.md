@@ -8,23 +8,21 @@ last_synced: 2026-04-04
 <div class="page-container">
 <div class="page-content">
 
-# About Goal Keepers Corner
+# About Goalkeepers Corner
 
-Goal Keepers Corner exists to elevate the standard of goalkeeping in South Africa. We provide specialised coaching, community, and content that transforms aspiring keepers into confident, technically excellent players.
-
-Most football academies and school teams treat goalkeepers as an afterthought — one person in a squad of twenty who gets told to "just stand in goal." GKC was built on the belief that keepers deserve better than that.
+Goalkeepers Corner is South Africa's premier institution dedicated to the specialized training and development of goalkeepers. Our mission is to cultivate talent, enhance technical skills, and build mental fortitude, preparing our goalkeepers to excel at the highest levels of competition.
 
 ---
 
 ## Coach Banele Matomela
 
-Banele Matomela is the founder, head coach, and driving force behind Goal Keepers Corner. Based in Johannesburg, he's built a reputation as one of Mzansi's most passionate goalkeeper development specialists.
+Banele Matomela is the founder, head coach and driving force behind Goalkeepers Corner. Based in Johannesburg, he's built a reputation as one of Mzansi's most passionate goalkeeper development specialists.
 
-With over 20,000 personal Instagram followers and a growing GKC community, Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers, and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
+Coach Banele reaches goalkeepers across South Africa through both his in-person sessions and his social media content. He has worked with and featured national team goalkeepers and his tagline — **"Cultivating Talent into Goalkeeping Excellence"** — captures his mission.
 
 ### Coaching Philosophy
 
-Coach Banele's approach rests on four principles:
+Goalkeeper Corner approach rests on four principles:
 
 - **Every keeper deserves specialised training** — not just the ones at elite academies.
 - **Goalkeeping is mental and physical** — confidence is trained, not given.
@@ -41,10 +39,9 @@ Through social media content, we extend that reach beyond Johannesburg — shari
 
 ### What We're Working Toward
 
-- Keepers in Johannesburg know GKC as **the** place for specialised goalkeeper training.
-- Parents trust Coach Banele with their children's development.
-- GKC alumni go on to play at school, university, club, and national levels.
-- The organisation becomes financially sustainable through consistent program enrollment.
+- Keepers in Johannesburg know GC as **the** place for specialised goalkeeper training.
+- Parents trust Goalkeepers Corner with their children's development.
+- GC alumni go on to play at school, university, club and national levels.
 
 ---
 
